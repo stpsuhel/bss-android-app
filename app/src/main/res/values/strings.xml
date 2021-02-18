@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">BSS</string>
+
+    <string name="nav_message">Message</string>
+    <string name="nav_profile">Profile</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_send">Send</string>
+    <string name="nav_communicate">Communicate</string>
+
+    <string name="nav_drawer_open">Open Navigation Drawer</string>
+    <string name="nav_drawer_close">Close Navigation Drawer</string>
+
+    <string name="edit_profile_text">Update Profile</string>
+    <string name="change_password_text">Change Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="user_name_password">Password</string>
+    <string name="not_a_mamber_yet_create_account">Not a Mamber yet? Create Account</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="user_name">User Name</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_up_btn">Sign Up</string>
+    <string name="sign_in_page">Alredy have a account? Sign In</string>
+    <string name="last_payment">Last Payment</string>
+    <string name="my_payment_information">My Payment Information</string>
+    <string name="total_amount">Total Amount:  </string>
+    <string name="full_payment">See Full Payment</string>
+    <string name="log_out">Log Out</string>
+    <string name="my_payment_details">My Payment Details</string>
+    <string name="add_amount_to_user">Add Amount to User</string>
+
+
+    <string-array name="month">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+</resources>
